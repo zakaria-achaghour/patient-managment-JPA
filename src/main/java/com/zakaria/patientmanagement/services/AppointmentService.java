@@ -1,2 +1,4 @@
-package com.zakaria.patientmanagement.services;public interface AppointmentService {
+package com.zakaria.patientmanagement.services;
+
+public interface AppointmentService {
 }
